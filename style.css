@@ -118,3 +118,18 @@ footer{
 #bottom-footer{
     color: #7FA1BC;
 }
+#team-img{
+    padding-left: 100px;
+}
+#dev-limitless-sec{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 400px;
+}
+#team-work-sec{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 400px;
+}
