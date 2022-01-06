@@ -134,7 +134,7 @@ footer{
     background-size: 400px;
 }
 .contact-form{
-    background-color: rgb(245, 163, 153);
+    background-color: rgb(245, 229, 227);
 }
 .contact-form p{
     font-size: 50px;
@@ -150,7 +150,4 @@ footer{
 }
 .form-label{
     width: 500px;
-}
-.contact-form-color{
-    color: whitesmoke;
 }
